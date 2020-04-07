@@ -7,3 +7,4 @@ echo "this is complete"
 echo "adding one more line"
 
 echo "addding"
+echo "practicing cicd"
